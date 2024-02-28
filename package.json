@@ -36,7 +36,8 @@
     "Makefile",
     "fake_auth_init.js",
     "todo.appcache",
-    "run.sh"
+    "run.sh",
+    "package.json"
   ],
   "scripts": {
     "prestart": "make all",
